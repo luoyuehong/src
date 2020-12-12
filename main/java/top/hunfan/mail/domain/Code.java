@@ -1,4 +1,4 @@
-package top.hunfan.mail.domain;
+﻿package top.hunfan.mail.domain;
 
 /**
  * 响应异常代码
