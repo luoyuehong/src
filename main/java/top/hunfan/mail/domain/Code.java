@@ -1,5 +1,5 @@
 package top.hunfan.mail.domain;
-//this is first change line
+//this is first change line on remote
 /**
  * 响应异常代码
  * @author hf-hf
