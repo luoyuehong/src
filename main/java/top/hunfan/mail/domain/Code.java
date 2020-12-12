@@ -1,5 +1,5 @@
-﻿package top.hunfan.mail.domain;
-
+package top.hunfan.mail.domain;
+//this is first change line
 /**
  * 响应异常代码
  * @author hf-hf
