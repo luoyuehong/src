@@ -7,8 +7,9 @@
  */
 public enum Code {
     /**
-     * 200 成功
+     * 200 
      */
+    测试成功
     SUCCEED(200, "ceshi发送成功"),
 
     /**
@@ -28,7 +29,8 @@ public enum Code {
 
     Code(int code, String message) {
         this.code = code;
-        this.message = message;
+        this.message = message;上
+        天天
     }
 
     public int getCode() {
