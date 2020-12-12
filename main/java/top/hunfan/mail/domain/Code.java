@@ -9,7 +9,7 @@ public enum Code {
     /**
      * 200 成功
      */
-    SUCCEED(200, "发送成功"),
+    SUCCEED(200, "ceshi发送成功"),
 
     /**
      * 500 失败
