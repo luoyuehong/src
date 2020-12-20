@@ -1,7 +1,7 @@
 ﻿package top.hunfan.mail.domain;
 //this is first change line on local and remote
 //第一次
-//First
+//在远程仓库里修改
 /**
  * 响应异常代码
  * @author hf-hf
