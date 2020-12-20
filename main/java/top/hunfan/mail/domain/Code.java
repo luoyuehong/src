@@ -2,6 +2,7 @@
 //this is first change line on local and remote
 //第一次
 //在远程仓库里修改
+<<<<<<< HEAD
 //在本地仓库里修改
 //在本地仓库的第二次修改
 /**
